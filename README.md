@@ -54,7 +54,8 @@
 ---
 
 ## 📊 GitHub 活动 | GitHub Stats
-![Fan Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=goxia&show_icons=true&theme=default)
+![Fan Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=goxia&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=1800)
+
 
 ---
 
